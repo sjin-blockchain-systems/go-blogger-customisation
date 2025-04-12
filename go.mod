@@ -6,7 +6,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/getkin/kin-openapi v0.128.0
 	github.com/getsentry/sentry-go v0.29.1
-	github.com/golang-jwt/jwt/v5 v5.2.1
+	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/google/subcommands v1.2.0
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.6.0
