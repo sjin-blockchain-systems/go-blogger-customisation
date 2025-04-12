@@ -16,7 +16,7 @@ require (
 	github.com/oapi-codegen/oapi-codegen/v2 v2.4.1
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/oapi-codegen/testutil v1.1.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.34.0
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/gorm v1.25.12
