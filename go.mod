@@ -12,7 +12,7 @@ require (
 	github.com/google/wire v0.6.0
 	github.com/kataras/hcaptcha v0.0.2
 	github.com/labstack/echo/v4 v4.12.0
-	github.com/mailjet/mailjet-apiv3-go/v4 v4.0.1
+	github.com/mailjet/mailjet-apiv3-go/v4 v4.0.7
 	github.com/oapi-codegen/oapi-codegen/v2 v2.4.1
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/oapi-codegen/testutil v1.1.0
@@ -57,7 +57,6 @@ require (
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
-	github.com/mailjet/mailjet-apiv3-go/v3 v3.2.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
