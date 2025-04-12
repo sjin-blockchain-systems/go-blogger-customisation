@@ -1,10 +1,8 @@
-# go-bloggy
+# go-blogger
 
-[![codecov](https://codecov.io/gh/samgozman/go-bloggy/graph/badge.svg?token=Gk2j7fAlI9)](https://codecov.io/gh/samgozman/go-bloggy)
+Go Blogger: A simple &amp; lightweight backend for developers' personal blogs.
 
-Go Bloggy: A simple &amp; lightweight backend for developers' personal blogs.
-
-Bloggy started as a small side-project for my own dev blog [gozman.space/](https://gozman.space/),
+Bloggy started as a small side-project for an own dev blog
 but you can use it too.
 You can find API documentation in [openapi](api/openapi.yaml) config file.
 
